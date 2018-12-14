@@ -1,4 +1,4 @@
-##Digital Butler
+##Digital Butler##
 
 This project was designed to allow remote commands over a secure and verifiable
 channel. Those commands could allow the user to administer or retrieve data from
